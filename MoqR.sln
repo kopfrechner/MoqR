@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqR.Core", "MoqR.Core\MoqR.Core.csproj", "{146B30E6-9D97-4A73-88EE-61BED934BF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqR.Tests", "MoqR.Tests\MoqR.Tests.csproj", "{BBEE0713-3840-40E0-8F26-74C9C77E8148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146B30E6-9D97-4A73-88EE-61BED934BF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146B30E6-9D97-4A73-88EE-61BED934BF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146B30E6-9D97-4A73-88EE-61BED934BF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146B30E6-9D97-4A73-88EE-61BED934BF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBEE0713-3840-40E0-8F26-74C9C77E8148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEE0713-3840-40E0-8F26-74C9C77E8148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEE0713-3840-40E0-8F26-74C9C77E8148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEE0713-3840-40E0-8F26-74C9C77E8148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
